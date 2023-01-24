@@ -29,6 +29,7 @@ body{
 .perfill img{
    width: 200px; 
    height: 200px;
+   margin-bottom: 18px;
    border-radius: 50%;
    border: solid  #C4C4C4;
 }
@@ -55,9 +56,8 @@ height: 49px;
 border: 2px solid #BB99DD;
 border-radius: 4px;
 }
-button a{
+button {
     color: #BB99DD;
-    text-decoration: none;
 }
 footer{
     display: flex;
