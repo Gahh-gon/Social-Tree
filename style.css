@@ -6,7 +6,12 @@
 }
 
 body{
-    background-color: #BB99DD14;
+    height: 100vh;
+    background-image: url("assets/1297742.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
 }
 
 :root {
@@ -29,9 +34,9 @@ body{
 .perfill img{
    width: 200px; 
    height: 200px;
-   margin-bottom: 18px;
+   margin-bottom: px;
    border-radius: 50%;
-   border: solid  #C4C4C4;
+   border: solid  #EB3B09;
 }
 
 .perfill span{
@@ -42,7 +47,7 @@ body{
 }
 .perfill a{
     text-decoration: none;
-    color: #BB99DD;
+    color: #EB3B09;
 }
 .linkSession{
     display: flex;
@@ -53,11 +58,11 @@ body{
 button{
     width: 326px;
 height: 49px;
-border: 2px solid #BB99DD;
+border: 2px solid #EB3B09;
 border-radius: 4px;
 }
 button {
-    color: #BB99DD;
+    color: #EB3B09;
 }
 footer{
     display: flex;
