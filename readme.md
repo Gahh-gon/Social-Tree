@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos
+E um site para informar portfólio e mídia social
 
 -[Visite o projeto online](https://gahh-gon.github.io/Social-Tree/)
 
